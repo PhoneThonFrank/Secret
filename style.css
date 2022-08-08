@@ -113,7 +113,7 @@ a:hover,a.active{
 }
 
 #pv {
-    color: #0d0238;
+    color: #ffffff;
 }
 
 
@@ -141,4 +141,20 @@ a:hover,a.active{
 
 #mf {
     text-align: center;
+}
+
+#main1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#ad {
+    background-color: black;
+    color: white;
+}
+
+#pd {
+    background-color: black;
+    color: white;
 }
