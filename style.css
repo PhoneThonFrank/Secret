@@ -1,6 +1,11 @@
 
 @import url('https://cdn-uicons.flaticon.com/uicons-bold-rounded/css/uicons-bold-rounded.css'){}
 
+body {
+    background-image: url(https://wallpaperaccess.com/full/4153491.jpg);
+  }
+
+
 
 *{
     padding: 0;
@@ -157,4 +162,13 @@ a:hover,a.active{
 #pd {
     background-color: black;
     color: white;
+}
+
+#cpc{
+    background-color: rgba(0, 0, 0, 0.433);
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
 }
